@@ -524,3 +524,13 @@ upload metrics.json below url
 https://machinelearningreport.netlify.app/
 ```
 ---
+<img width="1357" height="644" alt="image" src="https://github.com/user-attachments/assets/82f71c6c-992f-447f-a2bb-29c9e50dd1ca" />
+
+---
+<img width="1352" height="591" alt="image" src="https://github.com/user-attachments/assets/6163e4d7-5387-445b-a807-411642829d4a" />
+
+---
+<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/6b7e388f-c1e8-4dd5-8d73-464725fb0d33" />
+
+---
+<img width="1366" height="523" alt="image" src="https://github.com/user-attachments/assets/1d9b4028-5625-445a-8d6d-ace1c898daeb" />
