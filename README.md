@@ -9,27 +9,38 @@ A PyTorch-based brain MRI image classification project that compares traditional
 ---
 <img width="1156" height="734" alt="image" src="https://github.com/user-attachments/assets/838a6de3-33e8-48f8-a8c9-1474413b8da3" />
 
----<img width="1280" height="543" alt="image" src="https://github.com/user-attachments/assets/486bf993-15fc-4d81-933c-baaf4670a1d2" />
+---
+<img width="1280" height="543" alt="image" src="https://github.com/user-attachments/assets/486bf993-15fc-4d81-933c-baaf4670a1d2" />
 
----<img width="1280" height="543" alt="image" src="https://github.com/user-attachments/assets/2c98f486-f3bb-4343-be09-824a137fc4c3" />
+---
+<img width="1280" height="543" alt="image" src="https://github.com/user-attachments/assets/2c98f486-f3bb-4343-be09-824a137fc4c3" />
 
----<img width="1280" height="728" alt="image" src="https://github.com/user-attachments/assets/bfe03be4-87a5-4d54-9c93-21a955d52d6c" />
+---
+<img width="1280" height="728" alt="image" src="https://github.com/user-attachments/assets/bfe03be4-87a5-4d54-9c93-21a955d52d6c" />
 
----<img width="1280" height="543" alt="image" src="https://github.com/user-attachments/assets/45c801fd-4dac-4291-83a6-78ffba881d8d" />
+---
+<img width="1280" height="543" alt="image" src="https://github.com/user-attachments/assets/45c801fd-4dac-4291-83a6-78ffba881d8d" />
 
----<img width="1280" height="745" alt="image" src="https://github.com/user-attachments/assets/d4cf6fb6-fc69-4cdc-970f-7bb021652d82" />
+---
+<img width="1280" height="745" alt="image" src="https://github.com/user-attachments/assets/d4cf6fb6-fc69-4cdc-970f-7bb021652d82" />
 
----<img width="1280" height="543" alt="image" src="https://github.com/user-attachments/assets/8a520fda-b29e-4f44-95a2-71ac4b01ed4d" />
+---
+<img width="1280" height="543" alt="image" src="https://github.com/user-attachments/assets/8a520fda-b29e-4f44-95a2-71ac4b01ed4d" />
 
----<img width="1280" height="543" alt="image" src="https://github.com/user-attachments/assets/4aa4a9a2-0cbf-439a-b0c1-297f9858a3e5" />
+---
+<img width="1280" height="543" alt="image" src="https://github.com/user-attachments/assets/4aa4a9a2-0cbf-439a-b0c1-297f9858a3e5" />
 
----<img width="1280" height="728" alt="image" src="https://github.com/user-attachments/assets/1ecf0926-129d-4864-a55e-7a61ad0071c8" />
+---
+<img width="1280" height="728" alt="image" src="https://github.com/user-attachments/assets/1ecf0926-129d-4864-a55e-7a61ad0071c8" />
 
----<img width="1280" height="543" alt="image" src="https://github.com/user-attachments/assets/a156982c-470c-4f99-bd3e-1c6a1280753c" />
+---
+<img width="1280" height="543" alt="image" src="https://github.com/user-attachments/assets/a156982c-470c-4f99-bd3e-1c6a1280753c" />
 
----<img width="1280" height="543" alt="image" src="https://github.com/user-attachments/assets/e324b41c-c444-42a5-8bf4-cd139a254b81" />
+---
+<img width="1280" height="543" alt="image" src="https://github.com/user-attachments/assets/e324b41c-c444-42a5-8bf4-cd139a254b81" />
 
----<img width="1189" height="716" alt="image" src="https://github.com/user-attachments/assets/67d28163-7e6b-49ff-806a-6ede762a98e6" />
+---
+<img width="1189" height="716" alt="image" src="https://github.com/user-attachments/assets/67d28163-7e6b-49ff-806a-6ede762a98e6" />
 
 
 ---
