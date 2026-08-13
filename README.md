@@ -1,6 +1,10 @@
 # Brain Tumor Detection Using Machine Learning and Deep Learning Models
 
 A PyTorch-based brain MRI image classification project that compares traditional machine learning algorithms, neural networks, and transfer-learning CNN architectures for brain tumor detection.
+---
+use colab https://colab.research.google.com/drive/1OUnva-vVwayleYeRsHzYpOM-enfZ_pfW
+
+---
 
 > **Important:** This README is based on the uploaded Jupyter Notebook `Brain_Tumor_Detection_Using_Pytorch_with_10_ml_models_.ipynb`.
 ---
