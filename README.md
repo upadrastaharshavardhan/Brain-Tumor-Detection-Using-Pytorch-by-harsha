@@ -541,6 +541,14 @@ upload brain tumor detection image below url
 ```text 
 https://braintumordetectionsystemv2.netlify.app/
 ```
+Healthy
+
+<img width="1353" height="647" alt="image" src="https://github.com/user-attachments/assets/42bf95df-73af-448c-a1c5-8951f4ca62bd" />
+
+---
+brain tumor 
+
+<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/b01a916b-0fec-4759-ac27-1e8e3647d49c" />
 
 ---
 
