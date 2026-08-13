@@ -539,7 +539,7 @@ https://machinelearningreport.netlify.app/
 upload brain tumor detection image below url
 
 ```text 
-[https://machinelearningreport.netlify.app/](https://braintumordetectionsystemv2.netlify.app/)
+https://braintumordetectionsystemv2.netlify.app/
 ```
 
 ---
