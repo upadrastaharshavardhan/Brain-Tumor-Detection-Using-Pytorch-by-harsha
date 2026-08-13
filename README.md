@@ -534,3 +534,13 @@ https://machinelearningreport.netlify.app/
 
 ---
 <img width="1366" height="523" alt="image" src="https://github.com/user-attachments/assets/1d9b4028-5625-445a-8d6d-ace1c898daeb" />
+
+---
+upload brain tumor detection image below url
+
+```text 
+[https://machinelearningreport.netlify.app/](https://braintumordetectionsystemv2.netlify.app/)
+```
+
+---
+
