@@ -516,3 +516,11 @@ The implementation and experiments described in this README are based on:
 ```text
 Brain_Tumor_Detection_Using_Pytorch_with_10_ml_models_.ipynb
 ```
+
+---
+upload metrics.json below url
+
+```text 
+https://machinelearningreport.netlify.app/
+```
+---
