@@ -4,6 +4,7 @@ A PyTorch-based brain MRI image classification project that compares traditional
 ---
 use colab https://colab.research.google.com/drive/1OUnva-vVwayleYeRsHzYpOM-enfZ_pfW
 
+learn ML here https://theaiacademy.netlify.app/
 ---
 
 > **Important:** This README is based on the uploaded Jupyter Notebook `Brain_Tumor_Detection_Using_Pytorch_with_10_ml_models_.ipynb`.
